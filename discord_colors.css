@@ -1,0 +1,17 @@
+.theme-dark {
+    --background-primary: #282828;
+    --background-secondary: #3c3836;
+    --background-tertiary: #504945;
+    --background-accent: #32302f;
+    --text-normal: #ebdbb2;
+    --text-spotify: #fbf1c7;
+    --text-muted: #bdae93;
+    --text-link: #458588;
+    --background-floating: #3c3836;
+    --header-primary: #ebdbb2;
+    --header-secondary: #bdae93;
+    --header-spotify: #b8bb26;
+    --interactive-normal: #ebdbb2;
+    --interactive-hover: #bdae93;
+    --interactive-active: #fbf1c7;
+    }
